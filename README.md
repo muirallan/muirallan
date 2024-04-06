@@ -1,4 +1,4 @@
-Hi, I’m @Allan Muir President of the Industry & Programming Club at University District of Columbia/ Student Ambassodor, Graphic Designer for the University Student Center, Resential Advisor and Former Apple Product& Design Intern Summer 2022.
+Hi, I’m @Allan Muir Apple Campus Leader, Vice-Presedent of the Gradutate student Government Assocation,founder of the Industry & Programming Club at University District of Columbia/ Student Ambassodor,  Graphic Designer for the University Student Center,Lead Resential Advisor and Former Apple Product& Design Intern Summer 2022.
 
 👀 I’m interested in new opportunities for growth and experience.
 🌱 I’m currently learning UI/UX ... .
