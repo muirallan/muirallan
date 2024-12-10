@@ -1,10 +1,34 @@
-Hi, I’m @Allan Muir Apple Campus Leader, Vice-Presedent of the Gradutate student Government Assocation,founder of the Industry & Programming Club at University District of Columbia/ Student Ambassodor,  Graphic Designer for the University Student Center,Lead Resential Advisor and Former Apple Product& Design Intern Summer 2022.
+# Allan Muir
 
-👀 I’m interested in new opportunities for growth and experience.
-🌱 I’m currently learning UI/UX ... .
-🌱 I’m currently UDC Apple Campus Leader ... .
-💞️ I’m looking to collaborate on projects that are App related or involves Figma,Sketch, C++ or HTML,Bootstrap Linux,Packet tracer and wureshark... .
-📫 How to reach me at allan.muir@udc.edu or allan.muir1@icloud.com or Muir.allan701@gmail.com or https://www.linkedin.com/in/allan-muir-627455116.
+Hi, I’m **Allan Muir**:  
+- Apple Campus Leader  
+- Vice-President of the Graduate Student Government Association  
+- Founder of the Industry & Programming Club at the University of the District of Columbia  
+- Student Ambassador  
+- Graphic Designer for the University Student Center  
+- Lead Residential Advisor  
+- Former Apple Product & Design Intern (Summer 2022)  
+
+👀 **I’m interested in**:  
+- New opportunities for growth and experience.  
+
+🌱 **I’m currently learning**:  
+- UI/UX design.  
+- AI and Machine Learning.  
+
+🌱 **I’m currently serving as**:  
+- UDC Apple Campus Leader.  
+
+💞️ **I’m looking to collaborate on projects**:  
+- App development or anything involving **Figma**, **Sketch**, **C++**, **HTML**, **Bootstrap**, **Linux**, **Packet Tracer**, or **Wireshark**.  
+- Rags creation and innovative AI/ML applications.  
+
+📫 **How to reach me**:  
+- **Email**:  
+  - [allan.muir@udc.edu](mailto:allan.muir@udc.edu)  
+  - [allan.muir1@icloud.com](mailto:allan.muir1@icloud.com)  
+  - [muir.allan701@gmail.com](mailto:muir.allan701@gmail.com)  
+- **LinkedIn**: [linkedin.com/in/allan-muir-627455116](https://www.linkedin.com/in/allan-muir-627455116)  
 
 <!---
 muirallan/muirallan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
